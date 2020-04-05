@@ -1,0 +1,22 @@
+{
+   "name": "Swap My Cookies",
+   "manifest_version": 2,
+   "version": "1.0.0",
+   "permissions": [ "tabs", "\u003Call_urls>", "unlimitedStorage", "cookies" ],
+   "options_page": "options.html",
+   "background": {
+      "scripts": [ "/lib/jquery-1.4.2.min.js", "/js/data.js", "/js/tools.js", "/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/icon_32x32.png",
+      "default_popup": "popup.html",
+      "default_title": "Swap Cookies"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "If you have multiple accounts let Swap My Cookies manage them for you!",
+   "icons": {
+      "128": "img/icon_128x128.png",
+      "32": "img/icon_32x32.png",
+      "48": "img/icon_48x48.png"
+   }
+}
