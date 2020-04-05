@@ -1,11 +1,11 @@
 # Swap My Cookies
 
 I am working on fixing some errors of this chrome extension
+I am sure you can help developing the solution https://github.com/ETCExtensions 
 
 Swap My Cookies is a program by Greyg00
 If you want to use my code, or you want the full original source code send me an email at: gr.greyg@gmail.com
 You can find it here: https://chrome.google.com/extensions/detail/dffhipnliikkblkhpjapbecpmoilcama
-
 
 This file is part of "Swap My Cookies".
 
